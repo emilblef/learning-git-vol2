@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	background-color: darkgreen;
+	font-family: "Gaegu", sans-serif;
+	color: white;
+	text-shadow: 3px 3px black;
+}
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+	background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1662b654576785.59611c560421b.jpg);
+}
+.container h1 {
+	font-size: 60px;
+	margin-top: 0;
+}
+.container h2 {
+	font-size: 45px;
+}
+.container h3 {
+	font-size: 35px;
+}
+.container p {
+	font-size: 25px;
+	margin-bottom: 0;
+	padding-bottom: 10px;
+}
